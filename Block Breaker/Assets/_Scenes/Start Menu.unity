@@ -909,7 +909,10 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Smash all the blocks to win
+  m_Text: 'Smash all the blocks to win
+
+
+    v1.0'
 --- !u!222 &1678913274
 CanvasRenderer:
   m_ObjectHideFlags: 0
